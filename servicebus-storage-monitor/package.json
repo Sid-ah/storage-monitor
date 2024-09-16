@@ -1,0 +1,17 @@
+{
+  "name": "servicebus-storage-monitor",
+  "version": "1.0.0",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "dependencies": {
+    "@azure/identity": "^4.4.1",
+    "axios": "^1.7.7",
+    "dotenv": "^16.4.5"
+  }
+}
